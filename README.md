@@ -1,2 +1,2 @@
 # Kutuphane-Otomasyonu-Konsol-Uygulamasi
-Local veritabanı ile çalışan kütüphane otomasyonu (konsol uygulaması olarak çalışmaktadır).
+Local veritabanı ile çalışan kütüphane otomasyonu (konsolda çalışmaktadır).
